@@ -15,7 +15,7 @@
 - Interactive quiz using JavaScript
 - ### Quiz Master Web App
 ### Live Demo:
-<a href = "quiz-master-ten-omega.vercel.app" target = "blank" > 
+<a href = "quiz-master-ten-omega.vercel.app" target = "blank" >quiz-master-ten-omega.vercel.app</a>
 
 ### YouTube Management System
 - SQLite database project
