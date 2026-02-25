@@ -8,6 +8,12 @@
 - ### Machine Learning Projects
 - Data Cleaning and Visualization using Python
 - Trained a Machine Learning model
+### Machine Learning Project
+
+📊 Data Cleaning & Visualization + ML Model
+
+Live Files:
+<a href ="https://github.com/Soumyadip778/Machine_Learning_Series/ML_part1/insurance.ipynb" target = "blank"> Soumyadip778/Machine_Learning_Series/ML_part1/insurance.ipynb </a>
 
 - ### Featured Projects
 
