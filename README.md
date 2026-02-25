@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Soumyadip Maity</h1>
-<h3 align="center">Class 12 student | Learning Full Stack & AI | Building cool JS projects</h3>
+<h3 align="center">Class 12 student | Aspiring Computer Science student interested in Full Stack Development and Artificial Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadip778&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadip778" /> </p>
 
 - 🌱 Currently focusing on **JavaScript fundamentals and DOM projects, aiming to master Full Stack (MERN) and Python for AI/ML.**
+
+- ### Machine Learning Projects
+- Data Cleaning and Visualization using Python
+- Trained a Machine Learning model
+
+- ### Featured Projects
+
+Quiz Game
+- Interactive quiz using JavaScript
+
+YouTube Management System
+- SQLite database project
+
+Machine Learning Model
+- Trained using Python
 
 - 💬 Ask me about **- JavaScript basics & DOM manipulation - Fun mini-projects like BMI calculator, theme changer, and number guess game - Learning roadmap for becoming a Full Stack + AI developer - Study tips for Class 12 while coding - Cricket 🏏 (yes, I play!)**
 
