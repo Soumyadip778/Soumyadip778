@@ -13,7 +13,7 @@
 📊 Data Cleaning & Visualization + ML Model
 
 Live Files:
-<a href ="https://github.com/Soumyadip778/Machine_Learning_Series/ML_part1/insurance.ipynb" target = "blank"> Soumyadip778/Machine_Learning_Series/ML_part1/insurance.ipynb </a>
+<a href ="https://github.com/Soumyadip778/Machine_Learning_Series/ML_part1/blob/main/insurance.ipynb" target = "blank"> Soumyadip778/Machine_Learning_Series/blob/main/ML_part1/insurance.ipynb </a>
 
 - ### Featured Projects
 
