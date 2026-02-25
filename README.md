@@ -11,14 +11,15 @@
 
 - ### Featured Projects
 
-Quiz Game
+### Quiz Game
 - Interactive quiz using JavaScript
 
-YouTube Management System
+### YouTube Management System
 - SQLite database project
 
-Machine Learning Model
+### Machine Learning Model
 - Trained using Python
+
 
 - 💬 Ask me about **- JavaScript basics & DOM manipulation - Fun mini-projects like BMI calculator, theme changer, and number guess game - Learning roadmap for becoming a Full Stack + AI developer - Study tips for Class 12 while coding - Cricket 🏏 (yes, I play!)**
 
