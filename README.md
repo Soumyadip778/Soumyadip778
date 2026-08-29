@@ -32,7 +32,7 @@ Live Files:
 
 - 💬 Ask me about **- JavaScript basics & DOM manipulation - Fun mini-projects like BMI calculator, theme changer, and number guess game - Learning roadmap for becoming a Full Stack + AI developer - Study tips for Class 12 while coding - Cricket 🏏 (yes, I play!)**
 
-- 📫 How to reach me **maitysoumyadip974@gmail.com**
+- 📫 How to reach me **maitysoumya904@gmail.com**
 
 - ⚡ Fun fact **I can switch from solving a tough JavaScript bug to hitting sixes in cricket without breaking a sweat 🏏💻**
 
